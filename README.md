@@ -95,6 +95,12 @@ With 5+ national-level hackathon wins and strong hands-on experience, I aim to w
 
 ---
 
+## 🧠 LeetCode
+
+- 🔗 Profile: [https://leetcode.com/Abhisingh18 ](https://leetcode.com/u/Abhi-singh_9648/) 
+- 💡 Solved Problems: (auto show below 👇)
+
+<img src="https://leetcard.jacoblin.cool/Abhisingh18?theme=dark&ext=heatmap" />
 ### ✍️ Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
