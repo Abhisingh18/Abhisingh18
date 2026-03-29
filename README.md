@@ -89,11 +89,6 @@ With 5+ national-level hackathon wins and strong hands-on experience, I aim to w
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhisingh18&theme=tokyo-night" />
-
----
 
 ## 🧠 LeetCode Stats
 
