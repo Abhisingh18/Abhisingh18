@@ -1,32 +1,52 @@
 # 💫 About Me:
-I am an AI/ML Engineer and Research Intern at Indian Institute of Science, passionate about building scalable, real-world AI systems that go beyond research prototypes. My work spans LLM-based systems, time-series forecasting, and intelligent automation, with a strong focus on deploying reliable and production-ready solutions.<br><br>I have previously worked as an AI/ML Research Intern at IIT Hyderabad, where I developed autonomous driving modules using computer vision and sensor fusion techniques.<br><br>I have built multiple end-to-end AI systems including RAG-based knowledge platforms, AI copilots, and automation pipelines, integrating technologies like FastAPI, FAISS, and modern LLM frameworks.<br><br>With 5+ national-level hackathon wins and strong hands-on experience, I aim to work at the intersection of AI research and production systems (MLOps), solving impactful real-world problems.
+I am an AI/ML Engineer and Research Intern at Indian Institute of Science, passionate about building scalable, real-world AI systems that go beyond research prototypes. My work spans LLM-based systems, time-series forecasting, and intelligent automation, with a strong focus on deploying reliable and production-ready solutions.
+
+I have previously worked as an AI/ML Research Intern at IIT Hyderabad, where I developed autonomous driving modules using computer vision and sensor fusion techniques.
+
+I have built multiple end-to-end AI systems including RAG-based knowledge platforms, AI copilots, and automation pipelines, integrating technologies like FastAPI, FAISS, and modern LLM frameworks.
+
+With 5+ national-level hackathon wins and strong hands-on experience, I aim to work at the intersection of AI research and production systems (MLOps), solving impactful real-world problems.
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheksingh500) 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhishek%20singh) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi9648531091@gmail.com) 
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheksingh500)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi9648531091@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧠 Core AI/ML
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
+### ⚙️ MLOps & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-grey?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhisingh18&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
@@ -36,7 +56,7 @@ I am an AI/ML Engineer and Research Intern at Indian Institute of Science, passi
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=Abhisingh18&theme=tokyonight&no-frame=true&row=1&column=6" />
 
@@ -54,7 +74,7 @@ I am an AI/ML Engineer and Research Intern at Indian Institute of Science, passi
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributions
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Abhisingh18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
