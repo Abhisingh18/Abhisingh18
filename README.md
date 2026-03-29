@@ -44,9 +44,7 @@ With 5+ national-level hackathon wins and strong hands-on experience, I aim to w
 
 ---
 
-## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhisingh18&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 ---
 
@@ -61,11 +59,3 @@ With 5+ national-level hackathon wins and strong hands-on experience, I aim to w
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---
-
-### 🔝 Top Contributions
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Abhisingh18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Abhisingh18&icon=0&color=0)](https://visitcount.itsvg.in)
