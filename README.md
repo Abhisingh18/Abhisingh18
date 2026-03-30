@@ -71,7 +71,15 @@ With 5+ national-level hackathon wins and strong hands-on experience, I aim to w
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge)
+![Agno](https://img.shields.io/badge/Agno-4B0082?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-grey?style=for-the-badge)
 ---
 ---
 
