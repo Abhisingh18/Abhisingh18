@@ -5,7 +5,7 @@ I have previously worked as an AI/ML Research Intern at IIT Hyderabad, where I d
 
 I have built multiple end-to-end AI systems including RAG-based knowledge platforms, AI copilots, and automation pipelines, integrating technologies like FastAPI, FAISS, and modern LLM frameworks.
 
-With 5+ national-level hackathon wins and strong hands-on experience, I aim to work at the intersection of AI research and production systems (MLOps), solving impactful real-world problems.
+With 7+ national-level hackathon wins and strong hands-on experience, I aim to work at the intersection of AI research and production systems (MLOps), solving impactful real-world problems.
 
 ---
 
