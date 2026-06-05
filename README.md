@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:.
 I am an AI/ML Engineer and Research Intern at Indian Institute of Science, passionate about building scalable, real-world AI systems that go beyond research prototypes. My work spans LLM-based systems, time-series forecasting, and intelligent automation, with a strong focus on deploying reliable and production-ready solutions.
 
 I have previously worked as an AI/ML Research Intern at IIT Hyderabad, where I developed autonomous driving modules using computer vision and sensor fusion techniques.
