@@ -83,26 +83,7 @@ With 7+ national-level hackathon wins and strong hands-on experience, I aim to w
 ---
 ---
 
-# 📊 GitHub Stats
-
- <img src="https://github-readme-stats.vercel.app/api?username=Abhisingh18&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-
- <img src="https://streak-stats.demolab.com?user=Abhisingh18&theme=tokyonight" />
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisingh18&layout=compact&theme=tokyonight" />
 
 ---
-
-
-
----
-
-
-## 🧠 LeetCode Stats
-
-  <img src="https://leetcard.jacoblin.cool/Abhi-singh_9648?theme=dark&ext=heatmap&cache=14400" />
-### ✍️ Dev Quote
-
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---
