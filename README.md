@@ -13,11 +13,3 @@ With 7+ national-level hackathon wins and strong hands-on experience, I aim to w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheksingh500)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi9648531091@gmail.com)
 
-
-
----
-
-
----
-
----
