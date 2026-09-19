@@ -14,6 +14,6 @@
 
 <br/><br/>
 
-**LLMs** • **Multimodal AI** • **Generative AI** • **Speech AI** • **MLOps**
+**LLMs** • **Multimodal AI** • **Generative AI** • **Speech AI** • **MLOps** • **Full stack Ai Engineer**
 
 </div>
