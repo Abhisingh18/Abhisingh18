@@ -1,13 +1,14 @@
-# 💫 About Me:
-I am an LLM Researcher@IIT-Madras and Ex- Research Intern@ IISc Banglore, passionate about building scalable, real-world AI systems that go beyond research prototypes. My work spans LLM-based systems, time-series forecasting, and intelligent automation, with a strong focus on deploying reliable and production-ready solutions.
+<div align="center">
 
-I have previously worked as an AI/ML Research Intern at IIT Hyderabad, where I developed autonomous driving modules using computer vision and sensor fusion techniques.
+# ⚡ LLM Researcher • AI Engineer • AI Systems Builder
 
-I have built multiple end-to-end AI systems including RAG-based knowledge platforms, AI copilots, and automation pipelines, integrating technologies like FastAPI, FAISS, and modern LLM frameworks.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=LLM+Researcher+%40+IIT+Madras;AI+Engineer+%7C+Multimodal+AI+%7C+Generative+AI;Training+Models+from+Scratch;Research+%E2%86%92+Production+AI;Building+Intelligent+Systems+that+Scale" />
 
-With 7+ national-level hackathon wins and strong hands-on experience, I aim to work at the intersection of AI research and production systems (MLOps), solving impactful real-world problems.
+<br/>
 
----
+**🧠 LLMs · 🤖 Multimodal AI · 🔬 AI Research · ⚙️ MLOps · 🚀 Production AI**
+
+</div>
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheksingh500)
